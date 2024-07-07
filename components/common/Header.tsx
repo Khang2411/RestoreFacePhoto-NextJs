@@ -13,7 +13,7 @@ export const Header = () => {
           height={36}
         />
         <p className="text-3xl font-bold ml-2 tracking-tight content-center">
-          restorePhotos.io
+          kresface.io.vn
         </p>
       </Link>
 
